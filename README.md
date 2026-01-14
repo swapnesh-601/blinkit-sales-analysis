@@ -1,7 +1,7 @@
 # blinkit-sales-analysis
 Exploratory data analysis of Blinkit sales data using Python to evaluate sales performance, customer satisfaction, and outlet-level trends.
 
-<img width="3500" height="3500" alt="blinkit_logo" src="https://github.com/user-attachments/assets/e0218593-af8c-45b6-9a6e-0c87bc4d7c68" />
+<img width="300" alt="blinkit_logo" src="https://github.com/user-attachments/assets/e0218593-af8c-45b6-9a6e-0c87bc4d7c68" />
 
 # 🛒 Blinkit Sales Analysis
 
